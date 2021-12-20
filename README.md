@@ -2,7 +2,7 @@
 - 👀 I’m interested in solution finding for streamlining routine.
 - 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on project building.
-- 📫 Find me on LinkedIn! 
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/sanjampreetsingh/)! 
 
 <!---
 SanjampreetSingh/SanjampreetSingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
