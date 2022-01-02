@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👀 I’m interested in solution finding for streamlining routine.
 - 💞️ I’m looking to collaborate on project building.
-- 🥅 2021 Goals: Champion Solve atleast 500 questions on leetcode. 😁👨‍💻
+- 🥅 2021 Goals: Solve atleast 500 questions on leetcode. 😁👨‍💻
 - ⚡ Fun fact: I love to play harmonium and sing Gurbani verses!
 
 ### Connect with me:
