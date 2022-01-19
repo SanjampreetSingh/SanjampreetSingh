@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=sanjam.dev&style=for-the-badge&url=https%3A%2F%2Fsanjam.dev)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/sanjampreet_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsanjampreet_&screen_name=sanjampreet_)
+[![Linkedin: Sanjampreet Singh](https://img.shields.io/badge/-Sanjampreet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjampreetsingh/)](https://www.linkedin.com/in/sanjampreetsingh/)
+![](https://visitor-badge.glitch.me/badge?page_id=SanjampreetSingh)
 
 ## I'm a Full Stack Developer !!
 
@@ -48,3 +50,9 @@ You can click the Preview link to take a look at your changes.
 ![Sanjampreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjampreetSingh&show_icons=true&hide=stars,prs,issues,contribs)
 
 </details>
+
+
+<p align="center">
+Check out my repos ⬇️  
+</p>
+
