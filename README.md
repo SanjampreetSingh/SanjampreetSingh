@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 [website]: https://sanjam.dev/
 [twitter]: https://twitter.com/sanjampreet_/
-[youtube]: https://www.youtube.com/c/SanjampreetSinghiViewAD/
+[youtube]: https://www.youtube.com/c/SanjampreetSingh/
 [instagram]: https://www.instagram.com/code_sanjam/ 
 [linkedin]: https://www.linkedin.com/in/sanjampreetsingh/
 
